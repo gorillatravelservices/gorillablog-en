@@ -10,9 +10,9 @@
 #    url: /collection-archive/
 #  - title: "Sitemap"
 #    url: /sitemap/
-  - title: "Page One"
+  - title: "PageOne"
     url: "/_pages/one.md"
-  - title: "Page Two"
+  - title: "PageTwo"
     url: /_pages/two.md
   - title: "Page Three"
     url: three
