@@ -1,5 +1,5 @@
 # main links
-# main:
+main:
 #  - title: "Quick-Start Guide"
 #    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 #  - title: "About"
@@ -13,7 +13,7 @@
   - title: "Page One"
     url: https://zorbathegreek.github.io/_pages/one.md
   - title: "Page Two"
-    url: two
+    url: /_pages/two.md
   - title: "Page Three"
     url: three
   - title: "Page Four"
