@@ -11,7 +11,7 @@ main:
 #  - title: "Sitemap"
 #    url: /sitemap/
   - title: "Page One"
-    url: one
+    url: /_pages/one.md
   - title: "Page Two"
     url: two
   - title: "Page Three"
