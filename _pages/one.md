@@ -1,9 +1,5 @@
 ---
-layout: single
-author_profile: false
-breadcrumbs: true
-sidebar:
-   nav: guide
+title: "PageOne"
 permalink: /one/
 ---
 
