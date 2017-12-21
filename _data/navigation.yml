@@ -11,7 +11,7 @@ main:
 #  - title: "Sitemap"
 #    url: /sitemap/
   - title: "Page One"
-    url: https://zorbathegreek.github.io/_pages/one.md
+    url: "/_pages/one.md"
   - title: "Page Two"
     url: /_pages/two.md
   - title: "Page Three"
