@@ -1,8 +1,9 @@
 ---
-layout: default
-author_profile: true
-title: Page One
-permalink: /one/
+layout: single
+author_profile: false
+breadcrumbs: true
+sidebar:
+   nav: guide
 ---
 
-This s page No. 1 
+This is page No. 1 
