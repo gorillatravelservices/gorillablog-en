@@ -10,12 +10,12 @@ main:
 #    url: /collection-archive/
 #  - title: "Sitemap"
 #    url: /sitemap/
-  - title: "Page One"
-    url: https://zorbathegreek.github.io/_pages/one.md
+  - title: "PageOne"
+    url: /_pages/one.md
   - title: "Page Two"
-    url: two
-  - title: "Page Three"
-    url: three
+    url: /_pages/two.md
+  - title: "Sample Page"
+    url: /_pages/sample-page.md
   - title: "Page Four"
     url: four
   - title: "Page Five"

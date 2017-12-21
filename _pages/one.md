@@ -1,9 +1,8 @@
 ---
-layout: single
-author_profile: false
-breadcrumbs: true
-sidebar:
-   nav: guide
+type: pages
+title: "PageOne" 
+permalink: /one/
 ---
+
 
 This is page No. 1 

@@ -15,7 +15,7 @@ name                     : "Philippe Tembeya"
 description              : "A site to guide you to the best travel experience in Eastern Congo DRC, including gorilla tracking."
 url                      : "https://zorbathegreek.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "zorbathegreek/gorillablog"  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/GTS_logo2_whitetext.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -26,7 +26,7 @@ comments:
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
-    # https://developers.facebook.com/docs/plugins/comments
+    # https://developers.facebook."com/docs/plu"gins/comments
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
@@ -118,7 +118,8 @@ author:
 # Reading Files
 include:
   - .htaccess
-  - _pages
+  - ["_pages"]
+
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -179,7 +180,7 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /:title/    #/:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -253,16 +254,15 @@ defaults:
       comments: # true
       share: true
       related: true
-
-defaults:
-  # _pages
   - scope:
-      path: ""
+      path: ""     
       type: pages
     values:
       layout: single
       author_profile: true
 
 
-# theme: "minimal-mistakes-jekyll"
+
+theme: "minimal-mistakes-jekyll"
 github: [metadata]
+  
