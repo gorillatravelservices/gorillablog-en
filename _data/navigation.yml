@@ -11,11 +11,11 @@ main:
 #  - title: "Sitemap"
 #    url: /sitemap/
   - title: "PageOne"
-    url: /_pages/one.md
-  - title: "Page Two"
+    url: "/_pages/one.md"
+  - title: "PageTwo"
     url: /_pages/two.md
-  - title: "Sample Page"
-    url: /_pages/sample-page.md
+  - title: "Page Three"
+    url: three
   - title: "Page Four"
     url: four
   - title: "Page Five"
@@ -30,3 +30,4 @@ main:
     url: nine
   - title: "Page Ten"
     url: ten
+

@@ -1,8 +1,7 @@
 ---
 type: pages
-title: "PageOne" 
+title: "PageOne"
 permalink: /one/
 ---
-
 
 This is page No. 1 
