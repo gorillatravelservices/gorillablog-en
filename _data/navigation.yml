@@ -10,7 +10,7 @@ main:
 #    url: /collection-archive/
 #  - title: "Sitemap"
 #    url: /sitemap/
-  - title: "PageOne"
+  - title: "Page One"
     url: /one/
   - title: "PageTwo"
     url: /two/
