@@ -14,6 +14,7 @@ title_separator          : "-"
 name                     : "Philippe Tembeya"
 description              : "A site to guide you to the best travel experience in Eastern Congo DRC, including gorilla tracking."
 url                      : "https://zorbathegreek.github.io"
+baseurl                  : "/gorillablog" # the subpath of your site, e.g. "/blog"
 baseurl                  : "/gorillablog"   # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/GTS_logo2_whitetext.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -59,9 +60,9 @@ bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
 
-# Social Sharing
+# Social Sharing / Follow me on ...
 twitter:
-  username               :
+  username               : "Gorillatravels"
 facebook:
   username               :
   app_id                 :
@@ -81,7 +82,7 @@ analytics:
     tracking_id          :
 
 
-# Site Author
+# Site Author, all the following show up in the sidebar (on the left)
 author:
   name             : "Philippe Tembeya"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
@@ -93,8 +94,8 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
-  facebook         :
+  flickr           : 
+  facebook         : 
   foursquare       :
   github           :
   gitlab           :
@@ -108,7 +109,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "Gorillatravels" # this shows up in the sidebar under the bio-photo
   vine             :
   weibo            :
   xing             :
