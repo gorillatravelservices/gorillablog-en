@@ -10,4 +10,4 @@ permalink: /three/
 
 This is page No. 3 
 
-![Image 1](/assets/images/image1.jpg)
+![Image 1](../assets/images/image1.jpg)
