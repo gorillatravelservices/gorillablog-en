@@ -10,6 +10,7 @@ permalink: /four/
 
 This is page No. 4
 
+![Image1](../assets/images/image4.jpg)
 ![Image1](../assets/images/image2.jpg)
 
-and here is even MORE text
+and here is more text
