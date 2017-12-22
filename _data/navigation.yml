@@ -11,23 +11,23 @@ main:
 #  - title: "Sitemap"
 #    url: /sitemap/
   - title: "PageOne"
-    url: "/_pages/one.md"
+    url: /one/
   - title: "PageTwo"
-    url: /_pages/two.md
+    url: /two/
   - title: "Page Three"
-    url: three
+    url: /three/
   - title: "Page Four"
-    url: four
+    url: /four/
   - title: "Page Five"
-    url: five
+    url: /five/
   - title: "Page Six"
-    url: six
+    url: /six/
   - title: "Page Seven"
-    url: seven
+    url: /seven/
   - title: "Page Eight"
-    url: eight
+    url: /eight/
   - title: "Page Nine"
-    url: nine
+    url: /nine/
   - title: "Page Ten"
-    url: ten
+    url: /ten/
 

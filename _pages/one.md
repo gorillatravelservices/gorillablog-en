@@ -1,5 +1,4 @@
 ---
-type: pages
 title: "PageOne"
 permalink: /one/
 ---
