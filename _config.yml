@@ -15,10 +15,11 @@ name                     : "Philippe Tembeya"
 description              : "A site to guide you to the best travel experience in Eastern Congo DRC, including gorilla tracking."
 url                      : "https://zorbathegreek.github.io"
 <<<<<<< HEAD
+<<<<<<< HEAD
 baseurl                  : "/gorillablog" # the subpath of your site, e.g. "/blog"
 =======
-baseurl                  : "/gorillablog"   # the subpath of your site, e.g. "/blog"
->>>>>>> 33eb9623b663855dca85656cf26a330e40c6c14c
+=======
+baseurl                  : "/gorillablog" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/GTS_logo2_whitetext.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
