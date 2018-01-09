@@ -13,9 +13,12 @@ This is page No. 3
 
 ![Image1](../assets/images/image3.jpg)
 
-plus more text
-![Image1](../assets/images/image3.jpg)
+# Besoins et frais en dollars américains  
 
-plus more text
-=======
-![Image 1](../assets/images/image1.jpg)
+* Permis de visite aux gorilles du PNKB	    :	400,00 (par touriste)
+* Permis de visite aux chimpanzés du CRPL   :	 40,00 (par touriste)
+* Restauration au Guest-House de Lwiro	    :	 15,00 (par personne)
+* Location véhicule (de 6h00 à 17h30)	    :	120,00 (par l’équipe)
+* GTS et guide pour un seul jour de visites	:	100,00 (par l’équipe)
+
+* Package :	USD par X nombre + équipes des touristes

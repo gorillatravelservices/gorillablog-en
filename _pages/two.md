@@ -9,26 +9,12 @@ permalink: /two/
 
 This is page No. 2
 
-Table Header |  Second Header
--------------|---------------
-Table Cell   |  Cell 2
-Cell 3		 |  Cell 4
+![Image2](../assets/images/image2.jpg)
 
-
-> block quote
-
-* unordered list
-* item 1
-   + sub-item 1
-   + sub-item 2
-
-1. ordered list
-2. item 2
-   + sub-item 1
-   + sub-item 2
-
-
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
+# Visite aux chimpanzés du Centre de Réhabilitation des Primate de Lwiro (CRPL) 
+* 11h00 : Arrivée au centre d’accueil du CRPL, formalités administratives, financières et débriefing   
+* 11h30 : Début de visite aux chimpanzés ; pour une heure                                                                                                  
+* 12h30 : Fin de visite, retour au centre d’accueil, repos et achat de souvenirs
+* 13h00 : Restauration au Guest-House de Lwiro (Réservée deux jours avant)
+* 14h30 : Retour à Bukavu
+* 15h30 : Arrivée à Bukavu ou à la frontière RDC/Rwanda pour le touriste voyageur.
