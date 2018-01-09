@@ -10,27 +10,27 @@ main:
 #    url: /collection-archive/
 #  - title: "Sitemap"
 #    url: /sitemap/
-  - title: "Visite Touristique de Nature"
+  - title: "VISITE TOURISTIQUE DE NATURE"
     url: /one/
-  - title: "Visite Touristique Historique et Culturelle"
+  - title: "VISITE TOURISTIQUE HISTORIQUE ET CULTURELLE"
     url: /two/
-  - title: "Visite Touristique Lacustre"
+  - title: "VISITE TOURISTIQUE LACUSTRE"
     url: /three/
-  - title: "Page Four"
-    url: /four/
-  - title: "Page Five"
-    url: /five/
-  - title: "Page Six"
-    url: /six/
-  - title: "Page Seven"
-    url: /seven/
-  - title: "Page Eight"
-    url: /eight/
-  - title: "Page Nine"
-    url: /nine/
-  - title: "Page Ten"
-    url: /ten/
-  - title: "Page Fifteen"
-    url: /fifteen/
-  - title: "1"
-    url: /1/
+#  - title: "Page Four"
+#    url: /four/
+#  - title: "Page Five"
+#    url: /five/
+#  - title: "Page Six"
+#    url: /six/
+#  - title: "Page Seven"
+#    url: /seven/
+#  - title: "Page Eight"
+#    url: /eight/
+#  - title: "Page Nine"
+#    url: /nine/
+#  - title: "Page Ten"
+#    url: /ten/
+#  - title: "Page Fifteen"
+#    url: /fifteen/
+#  - title: "1"
+#    url: /1/
