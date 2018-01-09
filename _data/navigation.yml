@@ -12,7 +12,7 @@ main:
 #    url: /sitemap/
   - title: "Visite Touristique de Nature"
     url: /one/
-  - title: "Visite Touristique historique et Culturelle"
+  - title: "Visite Touristique Historique et Culturelle"
     url: /two/
   - title: "Visite Touristique Lacustre"
     url: /three/
