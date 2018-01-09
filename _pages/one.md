@@ -8,7 +8,7 @@ title: "Page One"
 permalink: /one/
 ---
 
-![Image1](../assets/images/image1.jpg)
+![Image1]{{ site.baseurl }}(../assets/images/image1.jpg)
 
 # VISITE TOURISTIQUE DE NATURE
 
