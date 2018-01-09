@@ -10,9 +10,9 @@ main:
 #    url: /collection-archive/
 #  - title: "Sitemap"
 #    url: /sitemap/
-  - title: "Visite Touristique de Nature"
+  - title: "Visite Touristique Nature"
     url: /one/
-  - title: "Visite Touristique Historique et Culturelle"
+  - title: "Visite Touristique Historique Culturelle"
     url: /two/
   - title: "Visite Touristique Lacustre"
     url: /three/
