@@ -48,12 +48,15 @@ permalink: /three/
 
 ## Besoins et frais en dollars américains  
 
-Frais bateaux Bukavu-Idjwi-Bukavu | 100,00 (par touriste)
-Enveloppe-cadeau aux pygmées | 20,00 (par l’équipe des touristes)
-Enveloppe-cadeau aux pêcheurs | 20,00 (par l’équipe)
-Enveloppe-cadeau panier coopératives agr. |	60,00 (par l’équipe)
-Enveloppe-cadeau plantations d’ananas |	60,00 (par l’équipe)
-Location boat pour atteindre les ilots | 80,00 (par l’équipe) 
-GTS et guide pour un seul jour de visites | 100,00 (par l’équipe)
-Package	| USD par X nombre + équipes des touristes
+Frais bateaux Bukavu-Idjwi-Bukavu | 100 (par touriste)
+Enveloppe-cadeau aux pygmées | 20 (par l’équipe des touristes)
+Enveloppe-cadeau aux pêcheurs | 20 (par l’équipe)
+Enveloppe-cadeau panier coopératives agr. |	60 (par l’équipe)
+Enveloppe-cadeau plantations d’ananas |	60 (par l’équipe)
+Location boat pour atteindre les ilots | 80 (par l’équipe) 
+GTS et guide pour un seul jour de visites | 100 (par l’équipe)
+
+Package: | $340 par l'equipe + $100 par personne| e.g. 1 personne = $440| 2 personnes = $540| 3 personnes = $640 etc.
+
+<!--- Package	| USD par X nombre + équipes des touristes --->
    
