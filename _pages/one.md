@@ -37,7 +37,7 @@ Visite aux gorilles du parc
 * 11h30 : Début de visite aux chimpanzés ; pour une heure                                                                                                  
 * 12h30 : Fin de visite, retour au centre d’accueil, repos et achat de souvenirs
 * 13h00 : Restauration au Guest-House de Lwiro ---(Réservée deux jours avant)
-* 14h30 : Retour à Buka  
+* 14h30 : Retour à Bukavu  
 * 15h30 : Arrivée à Bukavu ou à la frontière RDC/Rwanda pour le touriste voyageur.
 
 
@@ -50,6 +50,6 @@ Restauration au Guest-House de Lwiro | 15 (par personne)
 Location véhicule (de 6h00 à 17h30) | 120 (par l’équipe)
 GTS et guide pour un seul jour de visites | 100 (par l’équipe)
 
-Package: | $220 par l'equipe + $465 par personne| 1 personne = $685| 2 personnes = $1150| 3 personnes = $1615 etc.
+Package: | $220 par l'equipe + $465 par personne|1 personne =$685|2 personnes =$1150|3 personnes =$1615 etc.
 
  <!--- Package :	USD par X nombre + équipes des touristes --->

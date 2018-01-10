@@ -56,7 +56,7 @@ Enveloppe-cadeau plantations d’ananas |	60 (par l’équipe)
 Location boat pour atteindre les ilots | 80 (par l’équipe) 
 GTS et guide pour un seul jour de visites | 100 (par l’équipe)
 
-Package: | $340 par l'equipe + $100 par personne| 1 personne = $440| 2 personnes = $540| 3 personnes = $640 etc.
+Package: | $340 par l'equipe + $100 par personne|1 personne =$440|2 personnes =$540|3 personnes =$640 etc.
 
 <!--- Package	| USD par X nombre + équipes des touristes --->
    
