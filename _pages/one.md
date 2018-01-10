@@ -50,6 +50,6 @@ Restauration au Guest-House de Lwiro | 15 (par personne)
 Location véhicule (de 6h00 à 17h30) | 120 (par l’équipe)
 GTS et guide pour un seul jour de visites | 100 (par l’équipe)
 
-Package: | $220 par l'equipe + $465 par personne| e.g. 1 personne = $685| 2 personnes = $1150| 3 personnes = $1615 etc.
+Package: | $220 par l'equipe + $465 par personne| 1 personne = $685| 2 personnes = $1150| 3 personnes = $1615 etc.
 
  <!--- Package :	USD par X nombre + équipes des touristes --->
