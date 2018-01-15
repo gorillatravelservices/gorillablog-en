@@ -1,5 +1,5 @@
 <!-- start custom head snippets -->
 
 <!-- insert favicons. use http://realfavicongenerator.net/ -->
-<head><link rel="icon" href="{{ site.baseurl }}/favicon.ico" type="image/png"></head>	
+<head><link rel="icon" href="{ site.baseurl }/favicon.ico" type="image/png"></head>	
 <!-- end custom head snippets -->
