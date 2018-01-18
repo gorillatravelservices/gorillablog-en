@@ -9,7 +9,7 @@ permalink: /four/
 ---
 ![Image](../assets/images/image4a.jpg)
 
-# 1. Randonnée sur le lac, gouter l’ananas, visites
+## 1. Randonnée sur le lac, gouter l’ananas, visites
 
 6h30 : Départ de l’hôtel vers le boat pour Idjwi  
 7h15 : Embarcation et début du voyage sur le lac              
