@@ -4,7 +4,7 @@ author_profile: true
 breadcrumbs: true
 sidebar:
    nav: guide
-title: "Deux jour à Idjwi-Sud : Au bord du lac Kivu et visites"
+title: "DEUX JOUR Á IDJWI-SUD : AU BORD DU LAC KIVU ET VISITES"
 permalink: /four/
 ---
 ![Image](../assets/images/image4a.jpg)
@@ -17,7 +17,6 @@ permalink: /four/
 13h00 : Visite des plantations d’ananas  
 14h00 : Visite plantation de bananier à Kintama  
 15h00 : Repas et repos à l’hôtel Congomani  
-16h00 : 
 
 ## 2. Visite Plantation ananas, briqueterie, et Groupe Grotte
 ![Image](../assets/images/image4b.jpg)  
