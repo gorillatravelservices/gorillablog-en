@@ -11,23 +11,23 @@ permalink: /four/
 
 ## 1. Randonnée sur le lac, gouter l’ananas, visites
 
-6h30 : Départ de l’hôtel vers le boat pour Idjwi  
-7h15 : Embarcation et début du voyage sur le lac              
-10h30 : Arrivée à Idjwi-Sud, Kashofu et hôtel  
-13h00 : Visite des plantations d’ananas  
-14h00 : Visite plantation de bananier à Kintama  
-15h00 : Repas et repos à l’hôtel Congomani  
+* 6h30 : Départ de l’hôtel vers le boat pour Idjwi  
+* 7h15 : Embarcation et début du voyage sur le lac              
+* 10h30 : Arrivée à Idjwi-Sud, Kashofu et hôtel  
+* 13h00 : Visite des plantations d’ananas  
+* 14h00 : Visite plantation de bananier à Kintama  
+* 15h00 : Repas et repos à l’hôtel Congomani  
 
 ## 2. Visite Plantation ananas, briqueterie, et Groupe Grotte
 ![Image](../assets/images/image4b.jpg)  
 
-7h30 : Petit déjeuner à l’hôtel Congomani  
-8h45 : Promenade au bord du lac et visite de la briqueterie locale de Kishofu  
-10h45 : Départ visite à la Grotte Mani (13m)  
-12h00 : Visite Groupe folklorique Yunva-Lero  
-13h30 : Retour à l’hôtel, repas et repos  
-15h00 : Visite carrières de sable à Kintama    
-16h30 : Retour à l’hôtel  
+* 7h30 : Petit déjeuner à l’hôtel Congomani  
+* 8h45 : Promenade au bord du lac et visite de la briqueterie locale de Kishofu  
+* 10h45 : Départ visite à la Grotte Mani (13m)  
+* 12h00 : Visite Groupe folklorique Yunva-Lero  
+* 13h30 : Retour à l’hôtel, repas et repos  
+* 15h00 : Visite carrières de sable à Kintama    
+* 16h30 : Retour à l’hôtel  
 
 ![Image](../assets/images/image4c.jpg)
 
