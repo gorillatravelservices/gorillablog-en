@@ -34,15 +34,15 @@ permalink: /four/
 ## 3. Besoins et frais en dollars américains  
 
 Frais location boat pour 2 jours et demie | 250 (par l’équipe des touristes)
-Frais de chambre d’hôtel par nuitée | 40 (par touriste)
+Frais de chambre d’hôtel pour deux nuitées | 80 (par touriste)
 Enveloppe-cadeau plantation d’ananas | 20 (par l’équipe)
 Enveloppe-cadeau plantation bananiers | 20 (par l’équipe)
 Enveloppe-cadeau briqueterie | 20 (par l’équipe)
 Enveloppe-cadeau briqueterie | 20 (par l’équipe)
 Enveloppe-cadeau carrière de sable | 20 (par l’équipe)
 Enveloppe-cadeau Groupe Yunva-Lero | 60 (par l’équipe) 
-GTS et guide pour un seul jour de visites |	100 (par l’équipe)
+GTS et guide pour deux jours de visites |	250 (par l’équipe)
 
-Package: | $660 par l'equipe + $40 par personne|1 personne =$700|2 personnes =$740|3 personnes =$780 etc.
+Package: | $660 par l'equipe + $80 par personne|1 personne =$740|2 personnes =$820|3 personnes =$900 etc.
 
 <!--- Package	| USD par X nombre + équipes des touristes --->
