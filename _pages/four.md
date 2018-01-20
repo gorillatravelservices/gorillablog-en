@@ -4,7 +4,7 @@ author_profile: true
 breadcrumbs: true
 sidebar:
    nav: guide
-title: "DEUX JOUR Á IDJWI-SUD : AU BORD DU LAC KIVU ET VISITES"
+title: "DEUX JOUR Á IDJWI-SUD : AU BORDES DU LAC KIVU"
 permalink: /four/
 ---
 ![Image](../assets/images/image4a.jpg)
