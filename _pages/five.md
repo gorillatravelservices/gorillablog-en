@@ -36,7 +36,7 @@ permalink: /five/
 
 * 11h45 : Arrivée au site Atmosphère et visite :  
         - Jets de pierres bondissantes sur le lac ;  
-        - Observer la course des piroguiers ;
+        - Observer la course des piroguiers ;  
         - Observer les nageurs compétiteurs ;  
 * 13h00 : Prise de lunch au site Atmosphère ; 
 * 14h00 : Détente musicale sur au bord du lac ;
