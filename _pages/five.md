@@ -27,7 +27,7 @@ permalink: /five/
         - Observer la source et l’itinéraire de l’eau thermale vers le lac ;
         - Palper l’eau thermale, se baigner et embouteiller à volonté ;
         - Ecouter les vertus de l’eau thermale depuis des années ;
-* 11h15 : Départ de Mahyuza pour le Site Récréatif Atmosphère* 7h30 : Petit déjeuner à l’hôtel Congomani  
+* 11h15 : Départ de Mahyuza pour le Site Récréatif Atmosphère  
 
 
 
