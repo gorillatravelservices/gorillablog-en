@@ -49,7 +49,7 @@ Frais location vehicule pour la journée | 100 (par l’équipe des touristes)
 Enveloppe-cadeau au site de Miti | 40 (par l’équipe)
 Enveloppe-cadeau au site d'eau thermale | 20 (par l’équipe)
 Enveloppe-cadeau compétiteurs du site Atmosphèr | 60 (par l’équipe)
-Repas et consommation boisson/eau gazeuse| 15 (par l’équipe)
+Repas et consommation boisson/eau gazeuse| 15 (par personne)
 GTS et guide pour un seul jour de visites |	100 (par l’équipe)
 
 Package: | $320 par l'equipe + $15 par personne|1 personne =$335|2 personnes =$350|3 personnes =$365 etc.
