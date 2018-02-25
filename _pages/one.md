@@ -22,7 +22,7 @@ Visite aux gorilles du parc
 * 8h00 : Débriefing sur la visite aux gorilles du PNKB. Vous pouvez poser des questions                                                                                 
 * 9h00 : Départ en forêt pour la visite. Plus ou moins une heure de marche jusqu’à l’objectif, la visite dès l’arrivée commence la famille des gorilles ; une heure
 
-* 10h00 : Retour vers les bureaux du parc, puis départ pour le CRPL à Lwiro  
+* 11h00 : Retour vers les bureaux du parc, puis départ pour le CRPL à Lwiro  
   
   
   
@@ -33,12 +33,12 @@ Visite aux gorilles du parc
 
 
 ## Visite aux chimpanzés du Centre de Réhabilitation des Primate de Lwiro (CRPL) 
-* 11h00 : Arrivée au centre d’accueil du CRPL, formalités administratives, financières et débriefing   
-* 11h30 : Début de visite aux chimpanzés ; pour une heure                                                                                                  
-* 12h30 : Fin de visite, retour au centre d’accueil, repos et achat de souvenirs
-* 13h00 : Restauration au Guest-House de Lwiro ---(Réservée deux jours avant)
-* 14h30 : Retour à Bukavu  
-* 15h30 : Arrivée à Bukavu ou à la frontière RDC/Rwanda pour le touriste voyageur.
+* 12h00 : Arrivée au centre d’accueil du CRPL, formalités administratives, financières et débriefing   
+* 12h30 : Début de visite aux chimpanzés ; pour une heure                                                                                                  
+* 13h30 : Fin de visite, retour au centre d’accueil, repos et achat de souvenirs
+* 14h00 : Restauration au Guest-House de Lwiro ---(Réservée deux jours avant)
+* 15h30 : Retour à Bukavu  
+* 16h30 : Arrivée à Bukavu ou à la frontière RDC/Rwanda pour le touriste voyageur.
 
 
 
