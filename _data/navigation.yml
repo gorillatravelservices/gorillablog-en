@@ -20,8 +20,8 @@ main:
     url: /four/
   - title: "Visite aux villages autour du Parc "
     url: /five/
-#  - title: "Page Six"
-#    url: /six/
+  - title: "Prix Kahuzi-Biega Nat'l Park"
+    url: /six/
 #  - title: "Page Seven"
 #    url: /seven/
 #  - title: "Page Eight"
