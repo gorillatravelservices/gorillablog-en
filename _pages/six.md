@@ -9,7 +9,7 @@ permalink: /six/
 ---
 
 All prices in $US.
-Children must be at least 15 years old to be admitted. 
+Children must be at least 16 years old to be admitted. 
 
 ### GORILLA TREKKING
 
