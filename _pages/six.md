@@ -9,6 +9,7 @@ permalink: /six/
 ---
 
 All prices in $US.
+Children must be at least 15 years old to be admitted. 
 
 ### GORILLA TREKKING
 
@@ -44,7 +45,6 @@ All prices in $US.
 | Foreigner resident of DRC and ECGL, EAC and SADC | 35 | 25 | 15
 | Congolese citizen | 15  |   7 | 3
 
-N.B. Children: up to 14 years of age
 
 
 <!---
