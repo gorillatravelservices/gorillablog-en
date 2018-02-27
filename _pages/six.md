@@ -12,7 +12,7 @@ All prices in $US.
 
 ### GORILLA TREKKING
 
-|          | Adult           | Student  |  Child
+|          | Adult           | Student  |  Child (>15)
 | :---------- |----------:| ---------:| --------: 
 | Foreigner     | 400       | 200 |  150
 | Foreigner resident of DRC and ECGL, EAC and SADC | 200 | 100 | 80
@@ -44,7 +44,7 @@ All prices in $US.
 | Foreigner resident of DRC and ECGL, EAC and SADC | 35 | 25 | 15
 | Congolese citizen | 15  |   7 | 3
 
-
+N.B. Children: up to 15 years of age
 
 
 <!---
