@@ -9,7 +9,7 @@ permalink: /six/
 ---
 
 All prices in $US.
-Children must be at least 16 years old to be admitted to Gorilla Trecking and the Mountain Ascent. 
+Children must be at least 16 years old to be admitted to Gorilla Trekking and the Mountain Ascent. 
 Prices may be subject to changes by the Park Authority.  
 
 ### GORILLA TREKKING
