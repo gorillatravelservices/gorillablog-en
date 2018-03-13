@@ -11,22 +11,20 @@ permalink: /one/
 ![Image1](../assets/images/image1a.jpg)
 
 
-## Visite aux gorilles de Grauer du Parc National de Kahuzi-Biega et Chimpanzé CRPL
+## TOURISTIC NATURE VISIT
 
-Visite aux gorilles du parc
+Visit the Grauer's Gorillas in Kahuzi Biega National Park and Chimpanzees at CRPL
 
-* 6h30 : Départ de l’hôtel à Bukavu
+Visit the gorillas in the park
 
-* 7h30 : Arrivée au centre d’accueil du Parc, café/thé gratuit, formalités administratives et financières
+* 6h30: Departure form hotel in Bukavu
 
-* 8h00 : Débriefing sur la visite aux gorilles du PNKB. Vous pouvez poser des questions                                                                                 
-* 9h00 : Départ en forêt pour la visite. Plus ou moins une heure de marche jusqu’à l’objectif, la visite dès l’arrivée commence la famille des gorilles ; une heure
+* 7h30 : Arrival at the reception of the park, free tea/coffee, administrative and financial formalities
 
-* 11h00 : Retour vers les bureaux du parc, puis départ pour le CRPL à Lwiro  
-  
-  
-  
+* 8h00: Briefing about the visit of the PNKB gorillas. You can ask all your questions                                                                                 
+* 9h00: Departure to the visit in the forest. More or less an hour's walk to the gorilla group; the  visit lasts one hour from reaching the group
 
+* 10h00: Return to the Park office, then departure to CRPL at Lwiro
 
 
 ![Image2](../assets/images/image1b.jpg)
