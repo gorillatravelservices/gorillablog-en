@@ -10,17 +10,17 @@ main:
 #    url: /collection-archive/
 #  - title: "Sitemap"
 #    url: /sitemap/
-  - title: "Visite Touristique Nature"
+  - title: "Touristic Nature Visit"
     url: /one/
-  - title: "Visite Touristique Historique Culturelle"
+  - title: "Touristic Cultural History Visit"
     url: /two/
-  - title: "Visite Touristique Lacustre"
+  - title: "Touristic Lakeside Visit"
     url: /three/
-  - title: "Deux jour à Idjwi-Sud : Au Bordes du lac Kivu"
+  - title: "Two Days at Idjwi-South: The Shores of Lake Kivu"
     url: /four/
-  - title: "Visite aux villages autour du Parc "
+  - title: "Visiting Villages around the Park"
     url: /five/
-  - title: "Prix Parc Nat'l Kahuzi-Biega"
+  - title: "Prices Kahuzi-Biega Nat'l Park"
     url: /six/
 #  - title: "Page Seven"
 #    url: /seven/
