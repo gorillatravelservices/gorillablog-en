@@ -11,13 +11,13 @@ permalink: /one/
 ![Image1](../assets/images/image1a.jpg)
 
 
-## TOURISTIC NATURE VISIT
+# TOURISTIC NATURE VISIT
 
 Visit the Grauer's Gorillas in Kahuzi Biega National Park and Chimpanzees at the Primate Rehabilitation Centre at Lwiro (CRPL)
 
 ## Visit the gorillas in the park
 
-* 6h30: Departure form hotel in Bukavu
+* 6h30: Departure from hotel in Bukavu
 
 * 7h30 : Arrival at the reception of the park, free tea/coffee, administrative and financial formalities
 

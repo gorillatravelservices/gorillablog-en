@@ -4,49 +4,49 @@ author_profile: true
 breadcrumbs: true
 sidebar:
    nav: guide
-title: "VISITE TOURISTIQUE HISTORIQUE ET CULTURELLE"
+title: " TOURISTIC CULTURAL HISTORY VISIT"
 permalink: /two/
 ---
 
 ![Image](../assets/images/image2a.jpg)
 
-# Visite à la cour royale de Kabare et tour de la ville de Bukavu
+# Visit the royal court of Kabare and Bukavu City tour
 
-## Visite à la cour royale 
+## Visit the royal court 
 
-* 9h30 : Départ de l’hôtel à Bukavu
-* 10h30 : Arrivée à Kabare : 
-* Révérence à Sa Majesté Mwami Kabare ;
-* Observation des danseurs ntoles ;
-* Entretien avec les sages, détenteurs de la coutume royale ;
-* Ecouter les griots de la cour royale ;
-* Photos de famille Sa Majesté puis avec chaque groupe ;
-* Repas offert par la cour royale (si le rendez-vous de visite annoncée avant).
-* 12h00 : fin de la visite et retour à Bukavu
+* 9h30: Departure from hotel in Bukavu
+* 10h30: Arrival at Kabare: 
+* Reference to His Majesty The King of Kabare;
+* Watch the Warrior Dansers;
+* Spend time with the wise men, the guards of Royal Customs;
+* Listen to the poets and musicians of the Royal Court;
+* Photo shoot with the Royal Family;
+* Invitation to a meal at the Royal Court (if visit was announced beforehand)
+* 12h00: end of visit and return to Bukavu
 
 
 ![Image1](../assets/images/image2b.jpg)
 
 
-## Visite au Collège Alfajiri, Cathédrale et Karhale, berceau des effets des différentes guerres
+## Visit Alfajiri College, Cathedral, and Karhale, repercussion site of various wars 
 
-* 12h45 : Arrivée et visite guidée des sites du Collège Alfajiri, 
-* 13h30 : Fin de la visite au Collège (histoires, sites, etc.)
-* 14h00 : Arrivée et visite des sites historiques et effets des guerres à la cathédrale 
+* 12h45: Arrival and guided tour of Alfajiri College (history, sites, etc.) 
+* 13h30: End of College visit 
+* 14h00: Arrival at the Cathedral and visits of historical sites, repercussions of wars to the cathedral 
 
-* 15h00 : Visite au grand marché de Kadutu (beaucoup de précaution avec les poches et objets en mains comme petits sacs, téléphones….) et départ pour le site Karhale 
-* 16h00 : Arrivée au site Karhale : sommet SOS village pour enfants, observation panoramique de la ville de Bukavu et des abords du lac Kivu  
-* 16h30 : Retour à l’hôtel à Bukavu.  
+* 15h00: Visit of the central and grand market of Kadutu (beware of pickpockets!) and departure for Karhale 
+* 16h00: Arrival at Karhale: SOS children's village, visit the sight seeing point to see the City of Bukavu and the banks of Lake Kivu 
+* 16h30: Return to hotel in Bukavu  
 
 
 
-## Besoins et frais en dollars américains  
+## Requirements and charges in US Dollars  
 
-Enveloppe d’équipe pour la famille royale | 200,00 (par l’équipe des touristes)
-Enveloppe-cadeau aux sages et griots | 50,00 (par l’équipe)
-Enveloppe-cadeau aux danseurs ntoles | 50,00 (par l’équipe)
-Enveloppe-cadeau au panier du Collège | 50,00 (par l’équipe)
-Enveloppe-cadeau panier de la Cathédrale | 50,00 (par l’équipe)
-Location véhicule (de 6h00 à 17h30)	| 120,00 (par l’équipe) 
-GTS et guide pour un seul jour de visites| 100,00 (par l’équipe)
+Contribution for the Royal Family | 200,00 (per tourist group)
+Contribution wise men and poets | 50,00 (per group)
+Contribution warrior dancers | 50,00 (per group)
+Contribution to the college offertory | 50,00 (per group)
+Contribution to the Cathedrale's offertory  | 50,00 (per group)
+Car hire (from 6 a.m. to 5:30 p.m.)| 120,00 (per group) 
+GTS admin fees and guide for one whole day| 100,00 (per group)
 Package	| 620,00 USD
