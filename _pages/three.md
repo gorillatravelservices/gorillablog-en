@@ -12,51 +12,54 @@ permalink: /three/
 
 # Visit the major island of Idjwi and surrounding islets 
 
-## Visite sur l’ile et ilots d’Idjwi-Sud
+## Visit the island and islets at South Idjwi
 
-* 6h30 : Départ de l’hôtel vers le bateau pour Goma (billet de voyage payé deux jours avant)                                                                                                             
-* 7h15 : Embarcation et début du voyage sur le lac
+* 6:30 a.m.: Departure from the hotel to the boat to Goma (tickets bought two days earlier)                                                                                                             
+* 7:15 a.m.: Embarcation and beginning of the lake trip
 
-* 10h30 : Arrivée à Idjwi-Sud, Monvu ou Kashofu  
+* 10:30 a.m.: Arrival at Idjwi-South, at Monvu or Kashofu  
 
-* 11h00 : Visite des coopératives agricoles de Kashofu port
+* 11:00 a.m.: Visit the agriculture cooperatives of Kashofu harbour
 
-* 13h00 : Visite des plantations de café ou d’ananas
+* 1:00 p.m.: Visit coffee or pineapple plantations
 
-+ 14h00 : Visite des travaux de céramique des peuples autochtones pygmées de Buruhuka
-15h00 : Repas à l’hôtel Congomani ou Astamani et repos
+* 2:00 p.m.: See the ceramic works of the pygmees of Buruhuka 
+
+* 3:00 p.m.: Meal at Hotel Congomani or Astamani
+
+* Rest of afternoon at your disposal
 
 
 ![Image](../assets/images/image3b.jpg)
 
 
-## Visite sur l’ile et ilots d’Idjwi-Nord
+## Visit the island and islets of North Idjwi
 
-* 6h00 : Départ de l’hôtel vers le bateau pour Goma (bateau Bahali, arrangé deux jours avant)
+* 6:00 a.m.: Departure from the hotel to the boat to Goma (M/V Bahali, arranged two days in advance)
 
-* 6h45 : Embarcation et début du voyage sur le lac
+* 6:45 a.m.: Embarcation and begin of the lake trip
 
-* 9h30 : Arrivée à Idjwi-Nord et logement à l’hôtel à Bugarula
+* 9:30 a.m.: Arrival at North Idjwi; check-in at the hotel in Bugarula
 
-* 10h30 : Visite aux camps de pêche sur ilot et Ishushu aux coopératives agricoles de Bugarula 
+* 10:30 a.m.: Visit the fishing camp on the islet ??? and Ishushu at the agirculture cooperative of Bugarula 
 
-* 12h00 : Visite des plantations de café ou de bananiers à Bugarula
+* 12:00 noon: Visit coffee or banana plantations at Bugarula
 
-* 13h00 : Visite des travaux de céramique des peuples autochtones pygmées de Bugarula
+* 1:00 p.m.: Visit the ceramic workshops of the pygmees of Bugarula
 
-* 14h00 : Retour à l’hôtel, repas et repos 
+* 2:00 p.m.: Return to the hotel, meals, and rest 
 
-## Besoins et frais en dollars américains  
+## Requirements and charges in US Dollars  
 
-Frais bateaux Bukavu-Idjwi-Bukavu | 100 (par touriste)
-Enveloppe-cadeau aux pygmées | 20 (par l’équipe des touristes)
-Enveloppe-cadeau aux pêcheurs | 20 (par l’équipe)
-Enveloppe-cadeau panier coopératives agr. |	60 (par l’équipe)
-Enveloppe-cadeau plantations d’ananas |	60 (par l’équipe)
-Location boat pour atteindre les ilots | 80 (par l’équipe) 
-GTS et guide pour un seul jour de visites | 100 (par l’équipe)
+Boat tickets Bukavu-Idjwi-Bukavu | 100 (per person)
+Contribution to pygmees | 20 (per tourist group)
+Enveloppe-cadeau aux pêcheurs | 20 (per tourist group)
+Enveloppe-cadeau panier coopératives agr. |	60 (per tourist group)
+Enveloppe-cadeau plantations d’ananas |	60 (per tourist group)
+Location boat pour atteindre les ilots | 80 (per tourist group) 
+GTS et guide pour un seul jour de visites | 100 (per tourist group)
 
-Package: | $340 par l'equipe + $100 par personne|1 personne =$440|2 personnes =$540|3 personnes =$640 etc.
+Package: | $340 per tourist group + $100 per person|1 person =$440|2 persons =$540|3 persons =$640 etc.
 
 <!--- Package	| USD par X nombre + équipes des touristes --->
    

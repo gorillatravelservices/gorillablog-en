@@ -4,30 +4,30 @@ author_profile: true
 breadcrumbs: true
 sidebar:
    nav: guide
-title: "DEUX JOUR Á IDJWI-SUD : AU BORDES DU LAC KIVU"
+title: "TWO DAYS AT SOUTH IDJWI: ON THE SHORES OF LAKE KIVU"
 permalink: /four/
 ---
 ![Image](../assets/images/image4a.jpg)
 
-## 1. Randonnée sur le lac, gouter l’ananas, visites
+## 1. Randonnée on the lake, pineapple sampling, visits
 
-* 6h30 : Départ de l’hôtel vers le boat pour Idjwi  
-* 7h15 : Embarcation et début du voyage sur le lac              
-* 10h30 : Arrivée à Idjwi-Sud, Kashofu et hôtel  
-* 13h00 : Visite des plantations d’ananas  
-* 14h00 : Visite plantation de bananier à Kintama  
-* 15h00 : Repas et repos à l’hôtel Congomani  
+* 6:30 a.m.: Departure from the hotel for the boat to Idjwi  
+* 7:15 a.m.: Embarcation and beginning of the lake trip 
+* 10:30 a.m.: Arrival at South Idjwi, Kashofu, check-in at the hotel  
+* 1:00 p.m.: Visit the pineapple plantations  
+* 2:00 p.m.: Visit the banana plantations at Kintama  
+* 3:00 p.m.: Meal and rest at Hotel Congomani  
 
-## 2. Visite Plantation ananas, briqueterie, et Groupe Grotte
+## 2. Visit a pineapple plantation, a local brick kiln, and caves
 ![Image](../assets/images/image4b.jpg)  
 
-* 7h30 : Petit déjeuner à l’hôtel Congomani  
-* 8h45 : Promenade au bord du lac et visite de la briqueterie locale de Kishofu  
-* 10h45 : Départ visite à la Grotte Mani (13m)  
-* 12h00 : Visite Groupe folklorique Yunva-Lero  
-* 13h30 : Retour à l’hôtel, repas et repos  
-* 15h00 : Visite carrières de sable à Kintama    
-* 16h30 : Retour à l’hôtel  
+* 7:30 a.m.:Breakfast at Hotel Congomani  
+* 8:45 a.m.: Walk along the lake and visit at the local brick kiln at Kishofu  
+* 10:45 a.m.: Departure for a visit to Mani cave (13m)  
+* 12:00 noon: Visit the folkloric band Yunva-Lero  
+* 1:30 p.m.: Return to the hotel, meal, and rest  
+* 3:00 p.m.: Visit carrières de sable??? at Kintama    
+* 4:30 p.m.: Return to the hotel  
 
 ![Image](../assets/images/image4c.jpg)
 
