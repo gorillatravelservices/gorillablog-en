@@ -9,7 +9,7 @@ permalink: /four/
 ---
 ![Image](../assets/images/image4a.jpg)
 
-## 1. Randonnée on the lake, pineapple sampling, visits
+## 1. Hike on the lakeside, pineapple sampling, visits
 
 * 6:30 a.m.: Departure from the hotel for the boat to Idjwi  
 * 7:15 a.m.: Embarcation and beginning of the lake trip 
@@ -31,18 +31,17 @@ permalink: /four/
 
 ![Image](../assets/images/image4c.jpg)
 
-## 3. Besoins et frais en dollars américains  
+## 3. Requirements and charges in US Dollars  
 
-Frais location boat pour 2 jours et demie | 250 (par l’équipe des touristes)
-Frais de chambre d’hôtel pour deux nuitées | 80 (par touriste)
-Enveloppe-cadeau plantation d’ananas | 20 (par l’équipe)
-Enveloppe-cadeau plantation bananiers | 20 (par l’équipe)
-Enveloppe-cadeau briqueterie | 20 (par l’équipe)
-Enveloppe-cadeau briqueterie | 20 (par l’équipe)
-Enveloppe-cadeau carrière de sable | 20 (par l’équipe)
-Enveloppe-cadeau Groupe Yunva-Lero | 60 (par l’équipe) 
-GTS et guide pour deux jours de visites |	250 (par l’équipe)
+Boat hire for 2.5 days | 250 (per tourist group)
+Hotel room rates for 2 nights (total) | 80 (par touriste)
+Contribution pineapple plantation | 20 (par l’équipe)
+Contribution banana plantation | 20 (par l’équipe)
+Contribution brick kiln | 20 (par l’équipe)
+Contribution sandpit | 20 (par l’équipe)
+Contribution folklore band Yunva-Lero | 60 (par l’équipe) 
+GTS admin charges and guide for 2 days |	250 (par l’équipe)
 
-Package: | $660 par l'equipe + $80 par personne|1 personne =$740|2 personnes =$820|3 personnes =$900 etc.
+Package: | $660 per tourist group + $80 per person|1 person =$740|2 persons =$820|3 persons =$900 etc.
 
 <!--- Package	| USD par X nombre + équipes des touristes --->
