@@ -4,13 +4,13 @@ author_profile: true
 breadcrumbs: true
 sidebar:
    nav: guide
-title: "VISITE TOURISTIQUE LACUSTRE"
+title: "TOURISTIC LAKESIDE VISIT"
 permalink: /three/
 ---
 
 ![Image](../assets/images/image3a.jpg)
 
-# Visite sur la grande ile d’Idjwi et ilots 
+# Visit the major island of Idjwi and surrounding islets 
 
 ## Visite sur l’ile et ilots d’Idjwi-Sud
 

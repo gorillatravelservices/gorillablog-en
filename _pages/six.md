@@ -14,28 +14,28 @@ Prices may be subject to changes by the Park Authority.
 
 ### GORILLA TREKKING
 
-|          | Adult           | Student  |  Child
+|          | Adults           | Students  |  Children
 | :---------- |----------:| ---------:| --------: 
-| Foreigner     | 400       | 200 |  150
-| Foreigner resident of DRC and ECGL, EAC and SADC | 200 | 100 | 80
-| Congolese citizen | 20  |    10 | 5
+| Foreigners     | 400       | 200 |  150
+| Foreigner residents of DRC and ECGL, EAC and SADC | 200 | 100 | 80
+| Congolese citizens | 20  |    10 | 5
 
 ### MOUNTAIN ASCENT
 
-|          | Adult           | Student  |  Child
+|          | Adults           | Students  |  Children
 | :---------- |----------:| ---------:| --------: 
-| Foreigner     | 100       | 70 |  50
-| Foreigner resident of DRC and ECGL, EAC and SADC | 60 | 50 | 25
-| Congolese citizen | 15  |  7 | 3
+| Foreigners     | 100       | 70 |  50
+| Foreigner residents of DRC and ECGL, EAC and SADC | 60 | 50 | 25
+| Congolese citizens | 15  |  7 | 3
 
 
 ### HIKING
 
-|          | Adult           | Student  |  Child
+|          | Adults           | Students  |  Children
 | :---------- |----------:| ---------:| --------: 
-| Foreigner     | 35       | 25 |  15
-| Foreigner resident of DRC and ECGL, EAC and SADC | 25 | 15 | 10
-| Congolese citizen | 5  |    4 | 2
+| Foreigners     | 35       | 25 |  15
+| Foreigner residents of DRC and ECGL, EAC and SADC | 25 | 15 | 10
+| Congolese citizens | 5  |    4 | 2
 
 
 ### CAMPING
