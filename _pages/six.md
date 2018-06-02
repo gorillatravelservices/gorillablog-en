@@ -44,9 +44,15 @@ Prices may be subject to changes by the Park Authority.
 | :---------- |----------:| ---------:| --------: 
 | Foreigner     | 50       | 35 |  25
 | Foreigner resident of DRC and ECGL, EAC and SADC | 35 | 25 | 15
-| Congolese citizen | 15  |   7 | 3
+| Congolese citizen | 15  |   7 | 3   
 
 
+
+### Our USD Account:  
+EQUITY BANK R.D.Congo  
+Swift : PRCBCDKI  
+Account Holder: GOMBANIRO TEMBEYA PHILIPPE  
+Account No.: 00018000400125293120079 
 
 <!---
 This is page No. 6
