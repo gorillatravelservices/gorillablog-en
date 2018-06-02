@@ -4,55 +4,54 @@ author_profile: true
 breadcrumbs: true
 sidebar:
    nav: guide
-title: "VISITE AUX VILLAGES AUTOUR DU PARC "
+title: "VISIT TO THE VILLAGES AROUND THE PARK"
 permalink: /five/
 ---
 
 ![Image](../assets/images/image5a.jpg)
 
-## 1. Visite des activités des communautés riveraines à Miti
+## 1. Visiting the activities of surrounding communities in Miti villages
 
-* 7h30 : Départ de l’hôtel à Bukavu vers le village de Miti
-* 8h15 : Arrivée à Miti et visite des activités communautaires :   
-        - travail de moulin traditionnel (pierre plate) pour broyer les sorghos,  
-        - écouter les vertus des repas à la farine de sorgho  
-        - observation des jeux de sombi, dense au rythme du kihobe et du likembe instruments locaux  
-* 10h00 : Départ de Miti pour Mahyuza pour les eaux thermales
+* 7h30: Departure from hotel in Bukavu to the village of Miti
+* 8h15: Arrival to Miti village and visiting community activities:   
+       - Observing works with the traditional mill (flat stone) for grinding sorghum,   
+       - Listening to the stories about meals with sorghum flour, 
+       - Observing games of sombi, dense to the rythm of the kihobe and likembe as local instruments 
+* 10h00: Departure from Miti to Mahyuza for the thermal waters
 
 
-## 2. Visite des eaux thermales de Mahyuza à Katana 
+## 2. Visiting Mahyuza themal water at Katana
 ![Image](../assets/images/image5b.jpg)  
 
-* 10h30 : Arrivée à Mahyuza et visite des eaux thermales, concession Kachungunu
-        - Observer la source et l’itinéraire de l’eau thermale vers le lac ;
-        - Palper l’eau thermale, se baigner et embouteiller à volonté ;
-        - Ecouter les vertus de l’eau thermale depuis des années ;
-* 11h15 : Départ de Mahyuza pour le Site Récréatif Atmosphère  
+* 10h30 : Arrival at Mahyuza and visiting the thermal waters in the Kachungunu concession
+    	- Observing the source of the thermal water and the route to the lake ;
+	- Touching to feel the thermal water, bathing and bottling if you like ;
+	- Listening to the vertues of the thermal waters for years. 
+* 11h15 : Departure from Mahyuza thermal waters for the Atmosphere Recreation Site  
 
 
-
-## 3. Visite du Site Récréatif Atmosphère à Chinjava (chez Bosingisi) 
+## 3. Visiting the Atmosphere Recreational site at Chinjava (Bosingisi’s property) 
 ![Image](../assets/images/image5c.jpg)
 
-* 11h45 : Arrivée au site Atmosphère et visite :  
-        - Jets de pierres bondissantes sur le lac ;  
-        - Observer la course des piroguiers ;  
-        - Observer les nageurs compétiteurs ;  
-* 13h00 : Prise de lunch au site Atmosphère ; 
-* 14h00 : Détente musicale sur au bord du lac ;
-* 15h00 : Départ et retour à l’hôtel à Bukavu.
+* 11h45: Arrival at the Atmosphere Recreational site  
+	- Throwing bouncing stones on the lake ;
+	- Observing the race of boatmen ;
+	- Observing the competing swimmers. 
+* 13h00: Lunch at the Atmosphere site, 
+* 14h00: Musical relaxation by the lake,
+* 15h00: Return to hotel in Bukavu.
 
 
-## 4. Besoins et frais en dollars américains  
+## 4. Requirements and charges in US Dollars
 
-Frais location vehicule pour la journée | 100 (par l’équipe des touristes)
-Enveloppe-cadeau au site de Miti | 40 (par l’équipe)
-Enveloppe-cadeau au site d'eau thermale | 20 (par l’équipe)
-Enveloppe-cadeau compétiteurs du site Atmosphèr | 60 (par l’équipe)
-Repas et consommation boisson/eau gazeuse| 15 (par personne)
-GTS et guide pour un seul jour de visites |	100 (par l’équipe)
+Car hire (from 6 a.m. to 5:30 p.m.) | 100 (per tourist group)
+Contribution for the Miti site | 40 (per group)
+Contribution for the thermal water site	 | 20 (per group)
+Contribution for competing teams at the Atmosphere site | 60 (per group)
+Meal and drink consumption/sparkling water| 15 (per person)
+GTS admin fees and guide for one whole day |	100 (per group)
 
-Package: | $320 par l'equipe + $15 par personne|1 personne =$335|2 personnes =$350|3 personnes =$365 etc.
+Package: | $320 per group + $15 per person|1 person =$335|2 persons =$350|3 persons =$365 etc.
 
 <!--- Package	| USD par X nombre + équipes des touristes --->
 
