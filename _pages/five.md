@@ -13,31 +13,31 @@ permalink: /five/
 ## 1. Visiting the activities of surrounding communities in Miti villages
 
 * 7h30: Departure from hotel in Bukavu to the village of Miti
-* 8h15: Arrival to Miti village and visiting community activities:   
+* 8h15: Arrival to Miti village and visiting community activities:    
        - Observing works with the traditional mill (flat stone) for grinding sorghum,   
-       - Listening to the stories about meals with sorghum flour, 
-       - Observing games of sombi, dense to the rythm of the kihobe and likembe as local instruments 
-* 10h00: Departure from Miti to Mahyuza for the thermal waters
+       - Listening to the stories about meals with sorghum flour,  
+       - Observing games of sombi, dense to the rythm of the kihobe and likembe as local instruments   
+* 10h00: Departure from Miti to Mahyuza for the thermal waters   
 
 
 ## 2. Visiting Mahyuza themal water at Katana
 ![Image](../assets/images/image5b.jpg)  
 
-* 10h30 : Arrival at Mahyuza and visiting the thermal waters in the Kachungunu concession
-    	- Observing the source of the thermal water and the route to the lake ;
-	- Touching to feel the thermal water, bathing and bottling if you like ;
-	- Listening to the vertues of the thermal waters for years. 
-* 11h15 : Departure from Mahyuza thermal waters for the Atmosphere Recreation Site  
+* 10h30: Arrival at Mahyuza and visiting the thermal waters in the Kachungunu concession  
+        - Observing the source of the thermal water and the route to the lake,   
+        - Touching to feel the thermal water, bathing and bottling if you like,  
+        - Listening to the vertues of the thermal waters for years.  
+* 11h15 : Departure from Mahyuza thermal waters for the Atmosphere Recreation Site   
 
 
 ## 3. Visiting the Atmosphere Recreational site at Chinjava (Bosingisi’s property) 
 ![Image](../assets/images/image5c.jpg)
 
 * 11h45: Arrival at the Atmosphere Recreational site  
-	- Throwing bouncing stones on the lake ;
-	- Observing the race of boatmen ;
-	- Observing the competing swimmers. 
-* 13h00: Lunch at the Atmosphere site, 
+        - Throwing bouncing stones on the lake,  
+        - Observing the race of boatmen, 
+        - Observing the competing swimmers.   
+* 13h00: Lunch at the Atmosphere site,  
 * 14h00: Musical relaxation by the lake,
 * 15h00: Return to hotel in Bukavu.
 
